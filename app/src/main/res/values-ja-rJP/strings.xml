@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bon Appetit Sushi</string>
+    <string name="message">これは寿司の皿です</string>
+    <string name="show_message">メッセージを表示</string>
+    <string name="textViewMessage">Itadakimasu</string>
+</resources>

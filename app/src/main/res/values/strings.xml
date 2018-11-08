@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message">This is a plate of sushi.</string>
+    <string name="show_message">Show Message</string>
+    <string name="app_name">Bon Appetit Sushi</string>
+    <string name="textViewMessage">Enjoy your sushi!</string>
+</resources>

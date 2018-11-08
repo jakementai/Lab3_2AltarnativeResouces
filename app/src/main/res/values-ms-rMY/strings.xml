@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bon Appetit Sushi</string>
+    <string name="message">Ini adalah sepinggan sushi</string>
+    <string name="show_message">Tunjuk Mesej</string>
+    <string name="textViewMessage">Sila makan!</string>
+</resources>
